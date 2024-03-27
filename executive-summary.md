@@ -1,21 +1,22 @@
 ---
 sidebar_position: 1
+title: "MODEL LAW FOR DECENTRALIZED AUTONOMOUS ORGANIZATIONS (DAOs)"
 ---
 
-MODEL LAW FOR DECENTRALIZED AUTONOMOUS ORGANIZATIONS (DAOS)
-===========================================================
 
-**Version 1.0.0**, _last update_ 2023-12-10.
+**Version 1.0.1**, _last update_ 2024-03-26.
 
 > **Contributors** (in alphabetical order)
 >
-> Constance Choi, Primavera De Filippi, Rick Dudley, Silke Noa Elrifai,
-> Fatemeh Fannizadeh, Florence Guillaume, Andrea Leiter, Morshed Mannan,
-> Greg McMullen, Sven Riva, Ori Shimony
+> Constance Choi, Primavera De Filippi, Rick Dudley, Silke Noa Elrifai, Fatemeh Fannizadeh, Florence Guillaume, Andrea Leiter, Morshed Mannan, Greg McMullen, Sven Riva, Ori Shimony
 
-_Originally written by the Coalition of Autmated Legal Application (COALA), 2019-2021, since December 2023 maintain on github (by ?) for contribution and updates. [Version History](/changelog), [Semantic versioning](/version-semantics)._
+---
 
-_You can also download the Model Law (as PDF) [with the full commentary](/TODO-pdf-full-version-1.0.0), or without, which is the [DAO Model Law version 1.0.0](/pdf/dao-model-law-1.0.0.pdf)._
+_Originally written by the Coalition of Autmated Legal Application ([**COALA**](https://coala.global)), 2019-2021, since March 2024 it is maintain on github (by ?) to invite update, contributions and expansions. Check the [Version History](/blog/CHANGELOG)_.
+
+_You can also download the latest produced version (1.0.1) of this website as PDF, [with the full commentary](/DAO-Model-Law-FULL-1.0.1), or without: [DAO Model Law version 1.0.1](/pdf/DAO-Model-Law-1.0.1.pdf)._
+
+---
 
 ## Executive Summary
 
