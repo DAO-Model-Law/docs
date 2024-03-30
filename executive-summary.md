@@ -30,26 +30,26 @@ In view of the above objectives, the ML consists of the following Chapters:
 
 # Chapter list 
 
-## [Chapter 1](#chapter-1). [General Provisions](#general-provisions) 
+### Chapter 1: [General Provisions](/docs/category/general-provisions) 
 
 Chapter 1 sets out the broad range of economic and social activities that DAOs can engage in, the rights and obligations that DAOs can enjoy as a separate legal person, and important definitions used in the ML.
 
-## [Chapter 2](#chapter-2). [Formation and Proof of Existence](#formation-and-proof-of-existence) 
+### Chapter 2: [Formation and Proof of Existence](/docs/category/formation-and-proof-of-existence)
 
 Chapter 2 sets out the eleven technical and governance requirements that a DAO needs to meet to benefit from legal personality, and for its Members to receive limited liability protection.
 
-## [Chapter 3](#chapter-3). [Limited Liability, Asset Subscription and Members' Rights](#limited-liability-asset-subscription-and-members-rights) 
+### Chapter 3: [Limited Liability, Asset Subscription and Members' Rights](/docs/category/limited-liability-asset-subscription-and-members-rights) 
 
 Chapter 3 sets out the potential actions that may lead to Members forfeiting limited liability protection, namely fraud and failure to comply with binding arbitral awards or court orders. This is intended to limit the grounds on which a Member may be jointly liable with a DAO, while not precluding the possibility that a Member may be personally liable (*e.g.*, under tort law principles). The chapter also clarifies that minimum capital requirements are not mandatory for DAOs, as is increasingly the case with traditional corporate entities, while still acknowledging that some DAOs may wish to voluntarily introduce reserve funds and insurance schemes to enhance public confidence in their ability to meet their debts to third party creditors. The remainder of the chapter is devoted to governance rights, providing considerable leeway to DAOs to create multiple classes of participation and diverse voting rights structures, as well as the possibility to protect minorities and appoint proxies.
 
-## [Chapter 4](#chapter-4). [Internal Organization and Disclosure](#internal-organization-and-disclosure) 
+### Chapter 4: [Internal Organization and Disclosure](/docs/category/internal-organization-and-disclosure) 
 
 Chapter 4 builds on the question of how a DAO under the ML is to be governed. It seeks to allow individual DAOs to have considerable flexibility in how their internal organization and procedures take place, without being bound by the same constraints that a number of corporate entities are subject to (*e.g.*, in-person, physical meetings). The ML enables management by consensus as well as the appointment of Administrator(s). It recognizes that, irrespective of how the DAO is managed, the DAO may need to have representation off-chain for certain purposes and activities. This chapter therefore provides a procedure for appointing a Legal Representative with narrowly-defined powers that can interact with territorially bound national jurisdictions. In the spirit of contractual freedom, DAOs are permitted to appoint fiduciaries if they wish, but the ML makes clear that merely holding a position with a particular title and having certain potentially discretionary decision-making power (*e.g.*, core Developer, Administrator, Member) should not be in itself sufficient to imply fiduciary status.
 
-## [Chapter 5](#section-20). [DAO specific provisions](#dao-specific-provisions)
+### Chapter 5: [DAO specific provisions](/docs/category/dao-specific-provisions)
 
 The provisions of Chapters 1-4 are akin to most corporate law statutes and address the aspects of DAOs that are similar to other business organizations. Chapter 5, in contrast, recognizes that DAOs have technical features that raise new questions that merit specific treatment. This Chapter, therefore, includes specific articles that concern the consequences of Contentious Forks, modifications, upgrades and migrations on the legal personality of a DAO (as well as its claims and assets) and the limited liability of its Members. Moreover, there may be Failure Events that are specific to DAOs, which under this chapter may lead to the liability of Persons who are grossly negligent or acting in manifest bad faith in making a decision, but will not attach to those not involved in the decision.
 
-## [Chapter 6](#chapter-6). [Miscellaneous Provisions](#miscellaneous-provisions) 
+### Chapter 6: [Miscellaneous Provisions](/docs/category/miscellaneous-provisions) 
 
 Chapter 6 is the final part of the ML and includes two important miscellaneous p rovisions that are necessary in creating a coherently complete legal framework f or DAOs. First, it specifies when general business organization law should be ap plied to DAOs by a jurisdiction that adopts the ML. Only lacunae in the by-laws and the ML should be filled by domestic general business organization law, and i f there is any ambiguity arising from this gap-filling function, it should be re solved in a manner that upholds the objectives and letter of the ML. Second, it establishes the recognition of DAOs as pass-through entities for tax purposes, s o as to simplify the process of taxation for DAOs which are non-territorial and transnational by their nature, and instead make Members and Participants respons ible for tax compliance. 
