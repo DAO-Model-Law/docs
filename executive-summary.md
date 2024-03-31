@@ -14,7 +14,7 @@ title: "MODEL LAW FOR DECENTRALIZED AUTONOMOUS ORGANIZATIONS (DAOs)"
 
 _Originally written by the Coalition of Autmated Legal Application ([**COALA**](https://coala.global)), 2019-2021, since March 2024 it is maintain on github (by ?) to invite update, contributions and expansions. Check the [Version History](/blog/CHANGELOG)_.
 
-_You can also download the latest produced version (1.0.1) of this website as PDF, [with the full commentary](/DAO-Model-Law-FULL-1.0.1), or without: [DAO Model Law version 1.0.1](/pdf/DAO-Model-Law-1.0.1.pdf)._
+_You can also download the latest produced version (1.0.1) of this website as PDF, [with the full commentary](/pdf/DAO-Model-Law-FULL-1.0.1.pdf), or without: [DAO Model Law version 1.0.1](/pdf/DAO-Model-Law-1.0.1.pdf)._
 
 ---
 
@@ -38,7 +38,7 @@ Chapter 1 sets out the broad range of economic and social activities that DAOs c
 
 Chapter 2 sets out the eleven technical and governance requirements that a DAO needs to meet to benefit from legal personality, and for its Members to receive limited liability protection.
 
-### Chapter 3: [Limited Liability, Asset Subscription and Members' Rights](/docs/category/limited-liability-asset-subscription-and-members-rights) 
+### Chapter 3: [Limited Liability, Asset Subscription and Members' Rights](/docs/category/limited-liability--assets-subscription-and-members-rights)
 
 Chapter 3 sets out the potential actions that may lead to Members forfeiting limited liability protection, namely fraud and failure to comply with binding arbitral awards or court orders. This is intended to limit the grounds on which a Member may be jointly liable with a DAO, while not precluding the possibility that a Member may be personally liable (*e.g.*, under tort law principles). The chapter also clarifies that minimum capital requirements are not mandatory for DAOs, as is increasingly the case with traditional corporate entities, while still acknowledging that some DAOs may wish to voluntarily introduce reserve funds and insurance schemes to enhance public confidence in their ability to meet their debts to third party creditors. The remainder of the chapter is devoted to governance rights, providing considerable leeway to DAOs to create multiple classes of participation and diverse voting rights structures, as well as the possibility to protect minorities and appoint proxies.
 
