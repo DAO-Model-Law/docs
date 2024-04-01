@@ -4,7 +4,13 @@ title: "MODEL LAW FOR DECENTRALIZED AUTONOMOUS ORGANIZATIONS (DAOs)"
 ---
 
 
-**Version 1.0.1**, _last update_ 2024-03-26.
+Note:
+
+### This is an incomplete work in progress. It is called **Version 1.0.1**, but actually: has all the content of the original version, and this website isn't yet ready for public consumption. _last update_ 2024-03-26.
+
+What's follow is the _porting_ from the Dao Model Law of COALA to a more maintable version. as the homepage suggest, this is a **work in progress**.
+
+---
 
 > **Contributors** (in alphabetical order)
 >
